@@ -12,5 +12,5 @@
 [3b.4 PalindromeChecker]->
 (https://github.com/Sumanthscse/Advance-Java/blob/main/3b.String_Programs/PalindromeChecker.jpg)
 
-[3b.5 WhitespaceRemover3b5]->
+[3b.5 WhitespaceRemover]->
 (https://github.com/Sumanthscse/Advance-Java/blob/main/3b.String_Programs/WhitespaceRemover.jpg)
